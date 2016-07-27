@@ -10,5 +10,5 @@ This CHANGELOG follows the format listed at [Keep A Changelog](http://keepachang
 
 - Initial release.
 
-[Unreleased]: https://github.com/sensu-extensions/sensu-extensions-template/compare/v1.0.0...HEAD
-[1.0.0]: https://github.com/sensu-extensions/sensu-extensions-template/compare/v0.0.1...v1.0.0
+[Unreleased]: https://github.com/sensu-extensions/sensu-extensions-debug/compare/v1.0.0...HEAD
+[1.0.0]: https://github.com/sensu-extensions/sensu-extensions-debug/compare/v0.0.1...v1.0.0
